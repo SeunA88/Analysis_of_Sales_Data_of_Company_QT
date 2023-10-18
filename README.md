@@ -7,7 +7,7 @@
 #### This data analysis entails Sales Information for **Company QT**. It includes data columns for sales, cost of goods sold, country, Date, Discount Band, Discounts, Gross Sales, Manufacturing Price, Month Name, Month Number, Product, Profit, Sale Price, Segment, Units Sold, Year and Sales Range. 
 Kindly feel free to interact with data (https://github.com/SeunA88/Sales-Data-Analysis/blob/main/Sales_Data.xlsx).
 
-Analysis of this data was carried out to show the ability to use some basic functions in Excel. Firstly, each column was formatted to depict the data therein. These functions were then used to determine the following insights from the data:
+Analysis of this data was carried out to show the ability to use some basic and advanced functions in Excel. Firstly, each column was formatted to depict the data therein. These functions were then used to determine the following insights from the data:
 1.	The total Revenue and Profit generated
 2.	The average Revenue and Units Sold for every order
 3.	The total Discount given in $
