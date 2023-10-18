@@ -77,7 +77,7 @@ This was determined using the SUMIFS function "=SUMIFS(A2:A701,C2:C701,"Canada",
 
 - In which Country, Segment and Month was the highest unit of goods sold?
 
-This was determined using the determining the highest unit sold first using the MAX function, rearranging the columns before using the VLOOKUP function (check here ) and then using VLOOKUP function to select out the Country, segment and month with the highest unit of goods sold e.g. "=VLOOKUP(T7, L2:N701, 3, FALSE)"
+This was determined using the determining the highest unit sold first using the MAX function, rearranging the columns before using the VLOOKUP function (check here: https://github.com/SeunA88/Sales-Data-Analysis/blob/main/Adjusted_sales_data.xlsx) and then using VLOOKUP function to select out the Country, segment and month with the highest unit of goods sold e.g. "=VLOOKUP(T7, L2:N701, 3, FALSE)"
 
 ![](Highest_unit_sold.png)
 
