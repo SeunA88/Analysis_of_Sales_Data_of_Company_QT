@@ -55,14 +55,37 @@ This was determined using the MAX function on the profit column “=MAX(L2:L701)
 
 This was determined using the IF function based on average sales as the logical test “=IF(A2>$U$14, "High sales", "Low sales")”
 
--The average revenue generated from each sale of ‘Paseo’
+Link here (https://github.com/SeunA88/Sales-Data-Analysis/blob/main/Sales_Data.xlsx) shows the new column achieved using this function for this analysis.
+
+- The average revenue generated from each sale of ‘Paseo’
 
 This was determined using the AVERAGEIF function "=AVERAGEIF(K2:K701, "Paseo", A2:A701)"
 
+![](Paseo.png)
 
+- The number of sales made in the Government and Midmarket segment
 
+This was determined using the COUNTIF function "=(COUNTIF(N2:N701,"Government")+COUNTIF(N2:N701,"Midmarket"))"
 
-Link here (https://github.com/SeunA88/Sales-Data-Analysis/blob/main/Sales_Data.xlsx) shows the new column achieved using this function for this analysis.
+![](Number_of_sales.png)
+
+- The total revenue generated from the sales of ‘Montana’ in Canada
+
+This was determined using the SUMIFS function "=SUMIFS(A2:A701,C2:C701,"Canada",K2:K701,"Montana")"
+
+![](Montana.png)
+
+- In which Country, Segment and Month was the highest unit of goods sold?
+
+This was determined using the determining the highest unit sold first using the MAX function, rearranging the columns before using the VLOOKUP function (check here ) and then using VLOOKUP function to select out the Country, segment and month with the highest unit of goods sold e.g. "=VLOOKUP(T7, L2:N701, 3, FALSE)"
+
+![](Highest_unit_sold.png)
+
+- 	What is the total profit made in December?
+
+This was determined using the SUMIF function "=SUMIF(I2:I701, "December", L2:L701)"
+
+![](December.png)
 
 
 ## Analysis Insights
