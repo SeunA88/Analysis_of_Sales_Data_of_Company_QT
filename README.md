@@ -89,7 +89,7 @@ This was determined using the SUMIF function "=SUMIF(I2:I701, "December", L2:L70
 
 
 ## Analysis Insights
-From this analysis, an overview and understanding of Company QT"s performance in Sales has been disclosed. This was achieved by insights generated from the above analysis which include Total Revenue, Total Profit, Maximum profitt, generated above among others. Noteworthy is the Country- United States of America, Segment- Government and Month- April where the highest unit of goods sold. 
+From this analysis, an overview and understanding of Company QT"s performance in Sales has been disclosed. This was achieved by insights generated from the above analysis which include Total Revenue, Total Profit, Maximum profit, generated above among others. Noteworthy is the Country- United States of America, Segment- Government and Month- April where the highest unit of goods sold. 
 
 ## Conclusion
 Using basic and advanced functions in Excel, insights have been generated from the Sales data of Company QT and further insights can still be generated from the data, which will be useful for stakeholders to make informed decisions. 
