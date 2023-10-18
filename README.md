@@ -4,7 +4,7 @@
 
 ---
 ## Introduction
-#### This data entails Sales Information for **Company QT**. It includes data columns for sales, cost of goods sold, country, Date, Discount Band, Discounts, Gross Sales, Manufacturing Price, Month Name, Month Number, Product, Profit, Sale Price, Segment, Units Sold, Year and Sales Range. 
+#### This data analysis entails Sales Information for **Company QT**. It includes data columns for sales, cost of goods sold, country, Date, Discount Band, Discounts, Gross Sales, Manufacturing Price, Month Name, Month Number, Product, Profit, Sale Price, Segment, Units Sold, Year and Sales Range. 
 Kindly feel free to interact with data (https://github.com/SeunA88/Sales-Data-Analysis/blob/main/Sales_Data.xlsx).
 
 Analysis of this data was carried out to show the ability to use some basic functions in Excel. Firstly, each column was formatted to depict the data therein. These functions were then used to determine the following insights from the data:
