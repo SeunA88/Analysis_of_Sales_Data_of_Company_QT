@@ -14,7 +14,7 @@ Analysis of this data was carried out to show the ability to use some basic func
 4.	Total number of sales recorded
 5.	The highest Profit generated
 6.	Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
-7.	7.	The average revenue generated from each sale of ‘Paseo’
+7.	The average revenue generated from each sale of ‘Paseo’
 8.	The number of sales made in the Government and Midmarket segment
 9.	The total revenue generated from the sales of ‘Montana’ in Canada
 10.	In which Country, Segment and Month was the highest unit of goods sold?
@@ -55,7 +55,15 @@ This was determined using the MAX function on the profit column “=MAX(L2:L701)
 
 This was determined using the IF function based on average sales as the logical test “=IF(A2>$U$14, "High sales", "Low sales")”
 
+-The average revenue generated from each sale of ‘Paseo’
+
+This was determined using the AVERAGEIF function "=AVERAGEIF(K2:K701, "Paseo", A2:A701)"
+
+
+
+
 Link here (https://github.com/SeunA88/Sales-Data-Analysis/blob/main/Sales_Data.xlsx) shows the new column achieved using this function for this analysis.
+
 
 ## Analysis Insights
 From this analysis, an overview and understanding of Company QT"s performance in Sales has been disclosed. This was achieved by insights generated from the above analysis which include Total Revenue, Total Profit, Maximum profit generated among others.
