@@ -1,6 +1,7 @@
 # Sales Data Analysis
 ---
-![](Sales.jpg)
+![](sales1.jpg)
+
 ---
 ## Introduction
 #### This data entails Sales Information for **Company QT**. It includes data columns for sales, cost of goods sold, country, Date, Discount Band, Discounts, Gross Sales, Manufacturing Price, Month Name, Month Number, Product, Profit, Sale Price, Segment, Units Sold, Year and Sales Range. 
