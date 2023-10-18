@@ -52,7 +52,9 @@ This was determined using the IF function based on average sales as the logical 
 Link here (https://github.com/SeunA88/Sales-Data-Analysis/blob/main/Sales_Data.xlsx) shows the new column achieved using this function for this analysis.
 
 ## Analysis Insights
+From this analysis, an overview and understanding of Company QT"s performance in Sales has been disclosed. This was achieved by insights generated from the above analysis which include Total Revenue, Total Profit, Maximum profit generated among others.
 
 ## Conclusion
+Using basic functions in Excel, insights have been generated from the Sales data of Company QT, which will be useful for stakeholders to make informed decisions. 
 
 
