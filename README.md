@@ -14,6 +14,11 @@ Analysis of this data was carried out to show the ability to use some basic func
 4.	Total number of sales recorded
 5.	The highest Profit generated
 6.	Create a column named ‘Sales Range’, return ‘High Sales’ if the Sales value is above average, otherwise, return ‘Low Sales’.
+7.	7.	The average revenue generated from each sale of ‘Paseo’
+8.	The number of sales made in the Government and Midmarket segment
+9.	The total revenue generated from the sales of ‘Montana’ in Canada
+10.	In which Country, Segment and Month was the highest unit of goods sold?
+11.	What is the total profit made in December?
 
 ## Result of Analysis
 -	The total Revenue and Profit generated.
