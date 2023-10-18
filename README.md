@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Sales Data Analysis of Company QT
 ---
 ![](sales1.jpg)
 
